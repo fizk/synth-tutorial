@@ -1,0 +1,9 @@
+figure {
+    margin: 0;
+    text-align: center;
+}
+
+figcaption {
+    padding: 1rem;
+    font-size: 0.8rem;
+}

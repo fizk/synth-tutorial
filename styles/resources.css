@@ -1,0 +1,8 @@
+.resources li {
+    margin: 0.512rem 0;
+}
+.resources a {
+    text-decoration: none;
+    display: inline-block;
+    border-bottom: 2px solid var(--color-indigo-1);
+}
